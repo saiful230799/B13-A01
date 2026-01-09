@@ -201,3 +201,11 @@ nav .menu a{
 .footer-container h3, #footer p{
     color: white;
 }
+.social-icon {
+    color: white;
+    margin-top: 12px;
+}
+.social-icon i{
+    margin: 0 7px 0 3px;
+
+}
